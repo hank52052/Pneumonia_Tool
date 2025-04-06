@@ -1,1 +1,0 @@
-python.exe -m streamlit run Pneumonia_UI_chinese.py
