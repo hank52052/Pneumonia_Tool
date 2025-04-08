@@ -40,4 +40,4 @@ The model classifies the lung image into one of four conditions.
 ## 📜 License
 This project is for non-commercial use only, such as academic projects or competitions.
 
-![螢幕擷取畫面 2025-04-07 015034](https://github.com/user-attachments/assets/804e2d10-d134-4c2c-8bae-2033e9891d2c)
+![下載](https://github.com/user-attachments/assets/c98fc2cb-225f-4651-a5e2-c9db4ca3b09e)
